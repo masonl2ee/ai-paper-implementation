@@ -17,7 +17,7 @@ Click on the paper titles to view the full implementation in its own repository.
 
 | Paper Title | Description | Repository Link |
 |-------------|-------------|-----------------|
-| *(coming soon)* | Transformer-based language models, embeddings, and more. | _To be added_ |
+| [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | Transformer-based language models, embeddings, and more. | [Go to repo](https://github.com/masonl2ee/transformer-paper-implementation.git) |
 
 ---
 
