@@ -1,4 +1,4 @@
-# AI Paper implementation
+# 📑 AI Paper implementation
 A list of AI papers I have implemented so far. Click the underlined title of each paper.
 
 ### Computer Vision
